@@ -2,7 +2,7 @@ CREATE DATABASE MaBaseDeDonnees;
 
 USE MaBaseDeDonnees;
 
-CREATE TABLE articles (
+CREATE TABLE articles(
     id INT PRIMARY KEY,
     nom VARCHAR(255),
     marque VARCHAR(255),
